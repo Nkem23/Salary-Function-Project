@@ -28,7 +28,7 @@ Total.csv → The salary dataset used (provided).
 
 Employee_Profile.zip → Zipped file containing employee details (created by Python script).
 
-unzipped_data/ → Folder created when unzipping the zip file in R .
+employee_details.csv → unzipped employee_detail file  .
 
 README.md → Instructions on how to run both Python and R code.
 
