@@ -32,6 +32,8 @@ employee_details.csv → unzipped employee_detail file  .
 
 README.md → Instructions on how to run both Python and R code.
 
+salary-function-project.zip → zipped assignment folder .
+
 ## Requirements
 Python:
 Juypter Notebook
