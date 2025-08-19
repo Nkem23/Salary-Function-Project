@@ -24,7 +24,7 @@ salary  function assignment.py → Python script to process dataset and export e
 
 unzipping and displaying in R.r → R script to unzip and display data
 
-Total.csv → The salary dataset used (provided).
+Total.csv.zip → The salary dataset used (provided).
 
 Employee_Profile.zip → Zipped file containing employee details (created by Python script).
 
